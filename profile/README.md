@@ -11,7 +11,7 @@
 - WebSocket protocol ensures simple interoperability
 - On-chain data storage allows NFTs to be retain the original data with the hash
 - Built in systems for DNS, URL and MIME type data resolving (blockchain hosted data / file access)
-- Abstracted data layers allow for modular choice of where and how the chain is stored
+- Abstracted data layers allow for modular choice of where and how the chain data is stored
 - 1 minute block interval to help strike a balance between wasted blocks and transaction time
 - Specifications are subject to change
 
