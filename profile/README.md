@@ -16,4 +16,4 @@
 - Specifications are subject to change
 
 
-2019 - 2023 Qi Blockchain™, © Qi Blockchain LLC
+© 2019-2023 Qi Blockchain™, Qi Blockchain LLC
