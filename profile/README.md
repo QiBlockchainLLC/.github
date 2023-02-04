@@ -13,7 +13,7 @@
 - Built in systems for DNS, URL and MIME type data resolving (blockchain hosted data / file access)
 - Abstracted data layers allow for modular choice of where and how the chain is stored
 - 1 minute block interval to help strike a balance between wasted blocks and transaction time
-- Since this project is in the early stages specifications are subject to change
+- Specifications are subject to change
 
 
 2019 - 2023 Qi Blockchain™, © Qi Blockchain LLC
