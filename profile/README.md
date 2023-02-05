@@ -1,5 +1,5 @@
 # Qi Blockchain
-### A new smart blockchain that is easy to use, cheap, efficient, and fair.
+### A new smart blockchain that is easy to use, affordable, efficient, and fair.
 
 - Written entirely in C#
 - ECMAScript (JavaScript) based scripting
