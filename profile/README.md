@@ -1,19 +1,14 @@
 # Qi Blockchain
 ### A new smart blockchain that is easy to use, affordable, efficient, and fair.
 
-- ECMAScript (JavaScript) based scripting
-- Fair staking rewards at 4% per block
-- Everyone gets a turn to mint a block regardless of stake amount
-- Ledger based balance sheet makes lite clients simple and fast
-- Built in smart name system (SNS) allows easy addressing by a chosen name instead of a long address / public key
-- Ed25519 for secure block signing
-- BIP39+password for strong mnemonic key generation
-- WebSocket protocol ensures simple interoperability
-- Side-chain data storage allows NFTs to be retain the original data with the hash
-- Built in  side-chain system for DNS, URL and MIME type data resolving (blockchain hosted data / file access)
-- Abstracted data layers allow for easy modular choice of where and how the chain data is stored
-- Variable block interval to help strike a balance between wasted blocks and transaction time
-- Specifications are subject to change
 
+- Developer-friendly: ECMAScript (JavaScript) based scripting for easy development and integration.
+- Fair and Inclusive: Everyone can participate in block production, regardless of stake size, ensuring a more equitable distribution of rewards.
+- Efficient and Economical: Proof of Stake block minting uses very little power, low fees and a fair target reward of 8& a year.
+- High Performance: Ledger-based accounting enables fast and efficient transactions, even for lite clients.
+- User-friendly: Intuitive smart name system allows users to interact with addresses easily using chosen names.
+- Secure: Ed25519 for strong block signing, SHA3 for secure hashing and BIP39+password for secure key management.
+- Scalable: Variable data storage and a modular data layer architecture enable efficient handling of growing data volumes.
 
-© 2019-2023 Qi Blockchain™, Qi Blockchain LLC
+  
+© 2019-2024 Qi Blockchain™, Qi Blockchain LLC
